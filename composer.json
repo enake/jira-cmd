@@ -1,0 +1,19 @@
+{
+    "name": "manuel.enache/jira-bulk-edit",
+    "description": "Automate Jira workflow",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Manuel Enache",
+            "email": "manuel@enake.ro"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "chobie/jira-api-restclient": "^2.0@dev",
+        "ext-json": "*",
+        "vlucas/phpdotenv": "^3.3@dev",
+        "ulrichsg/getopt-php": "dev-master"
+    }
+}
